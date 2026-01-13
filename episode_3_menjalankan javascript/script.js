@@ -1,0 +1,1 @@
+console.log("ini adalah Javadcript dari eksternal file");
